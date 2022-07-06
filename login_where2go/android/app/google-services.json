@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "931513287655",
+    "project_id": "where2gologin",
+    "storage_bucket": "where2gologin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931513287655:android:aede8372ef72a666f3b342",
+        "android_client_info": {
+          "package_name": "com.example.login_where2go"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931513287655-6c4db1478uf46ajq0ml5007e8s2uk574.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_lDZgqdM8OiDHF022qHuU4CCZH0xRIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931513287655-6c4db1478uf46ajq0ml5007e8s2uk574.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
